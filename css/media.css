@@ -1,0 +1,206 @@
+@media only screen and (min-width: 320px) {
+    
+}
+@media only screen and (max-width: 768px) {
+    .center-header {
+        flex-wrap: wrap;
+    }
+    #myNavbar ul {
+        margin-left: 12px;
+    }
+    #myNavbar ul li a {
+        font-size: 16px;
+    }
+    .copyright h5 {
+        font-size: 12px;
+    }
+    .banner .carousel-inner {
+        height: 450px;
+    }
+    .numbers ul li h2 {
+        font-size: 20px;
+    }
+    .numbers ul li p {
+        font-size: 12px;
+    }
+    .banner-text span {
+        font-size: 20px;
+    }
+    .services h3 {
+        font-size: 24px;}
+    .services p {
+        font-size: 12px;
+    }
+    .section {
+        padding: 0px;
+    }
+    .section1 .col-xs-4 {
+        width: 95%;
+        padding: 0px;
+        padding-left:15px;
+        padding-bottom: 10px;
+    }
+    .section2 .col-xs-4 {
+        width: 95%;
+        padding: 0px;
+        padding-left:15px;
+        padding-bottom: 10px;
+    }
+    .first-content .col-xs-4
+    {
+        padding-right: 10px;
+        padding-left: 12px;
+    }
+    .second-content .col-xs-4
+    {
+        padding-left: 12px;
+
+        padding-right: 17px;
+    }
+    .content .col-xs-4{
+        padding-right: 5px;
+       
+    }
+    .first.col-xs-4{
+        padding-left: 10px;
+    }
+    .first-content{
+        padding:0px;
+    }
+    .second-content  {
+        padding: 0px;
+    }
+    .third-content {
+        padding: 0px;
+    }
+    .contact .col-xs-4 h6 {
+        font-size: 11px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+    .contact p {
+        font-size: 10px;
+    }
+    .section3 .col-xs-4 {
+        width: 95%;
+        padding: 0px;
+        padding-left:15px;
+        padding-bottom: 10px;
+    }
+    .col-xs-4 .info {
+        padding-top: 62px;;
+    }
+    .section i {
+        font-size: 24px;
+    }
+    .section h4 {
+        font-size: 12px;
+    }
+    #services-icons i {
+        font-size: 24px;
+    }
+    #services-icons h5 {
+        font-size: 12px;
+    }
+    .projects h3 {
+        font-size: 20px;
+    }
+    .projects-content i {
+        padding-right: 5px;
+    }
+    .projects-content ul li {
+        font-size: 12px;
+    }
+    .projects-content ul li i {
+        font-size: 12px;
+    }
+    .projects-content ul {
+        display: block;
+        padding-left: 50px;
+        padding-right: 0px;
+    }
+    .image-gallery {
+        padding-bottom: 15px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .image-gallery .col-xs-6 {
+        width: 100%;
+        padding: 0px;
+        padding-bottom: 20px;
+    }
+    .images {
+        padding-bottom: 0px;
+    }
+    .flip-box-back i {
+        font-size: 24px;
+    }
+    .blog{
+        padding-top: 0px;
+        padding-bottom: 60px;
+    }
+    .blog-banner .carousel-inner {
+        height: 100%;
+    }
+    .blog-banner .carousel-indicators .active {
+        width: 16px!important;
+        height: 16px!important;
+    }
+    .blog-banner .carousel-indicators li{
+        width: 14px!important;
+        height: 14px!important;
+      }
+    .blog h3 {
+        font-size: 20px;
+    }
+    .blog p {
+        font-size: 12px;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .blog .blog-content{
+        padding-left: 16px;
+    }
+    .image-title {
+        font-size: 14px;
+        left:45px;
+    }
+    .image-paragraph {
+        font-size: 12px;
+        left:58px;
+    }
+    .menu-toggle {
+        left: 7px;
+    }
+    .navbar-brand span {
+        font-size: 30px;
+    }
+    .socials {
+        left: -20px;
+        font-size: 15px;
+    }
+}
+@media only screen and (min-width: 769px) { 
+    .navbar-toggle {
+        display: block!important;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .banner .carousel-inner {
+        height: 500px;
+    }
+    .numbers ul li h2 {
+        font-size: 40px;
+    }
+    .numbers ul li p {
+        font-size: 16px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+    
+}
+@media only screen and (max-width: 1201px) {
+    
+}
